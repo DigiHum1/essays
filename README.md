@@ -13,6 +13,7 @@ She began writing plays
 
 She began writing plays
 
+
 She admired the works of [Aphra Behn](https://www.kent-maps.online/17c/17c-behn-biography)
 
 The prologue of her play *The Different Widows*  (1703) spoken by Mr Booth refers to a civil Kentish Yeoman.
