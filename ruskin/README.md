@@ -4,6 +4,9 @@
     - [Home](/home)
     - [About](/about)
 
+.ve-media wc:Aerial_views_of_Shoalhaven_Heads,_NSW,_Australia_in_June_2016.webm right autoplay
+
+[Aerial views of Shoalhaven Heads, NSW, Australia in June 2016](https://commons.wikimedia.org/wiki/File:Aerial_views_of_Shoalhaven_Heads,_NSW,_Australia_in_June_2016.webm)
 
 Chris Jones
 
